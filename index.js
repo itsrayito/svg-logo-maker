@@ -1,3 +1,3 @@
 // this will start the application
-const prompt = required('./lib/prompt');
+const prompt = require('./lib/prompt');
 prompt.init();
