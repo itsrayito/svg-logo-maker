@@ -1,0 +1,10 @@
+
+    <svg version="1.1"
+    width="300" height="200"
+    xmlns="http:www.w3.org/2000/svg">
+            
+            <rect x="95" y="45" height="110" width="110" fill="yellow" />
+            
+            <text x="150" y="115" font-size="50" text-anchor="middle" fill="black">EAT</text>
+
+            </svg>
