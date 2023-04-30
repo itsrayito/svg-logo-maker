@@ -24,12 +24,12 @@ This project is powered by version 16 of Node.js, it also uses version 8.2.4 of 
 
 # How-to-Install
 1. First and foremost, the user should have the following three downloaded and installed already in their computer, those three are Node.js, jest, and npm.
-2. Clone the repository, by typing git clone `https://github.com/itsrayito/svg-logo-maker.git` into the chosen directory the user will be using into the Command Line Interface (CLI).
-3. Next, the user will use the CLI to run the command `npm i` to install the dependencies that will be used with the application. 
-4. To run this application, you will need to type the command `node index.js`.
+2. The user would then have to clone the repository, by typing `git clone https://github.com/itsrayito/svg-logo-maker.git` into the chosen directory of the computer the user will be using into the Command Line Interface (CLI).
+3. Next, the user will use the Command Line Interface to type `npm i` to install the dependencies that will be used with the application. 
+4. To start this application, you will need to type in the command `node index`.
 
 # How-to-Use
-For this application to run, the user will use the command line to navigate to the directory where they placed the repository, the user will then install all dependencies needed by typing `npm i`, then the user will type `node index.js`. The user will then be asked a series of questions and answered properly. Once after the questions have been answered, a message will show in the command line saying that the logo has been generated. The user will then find their new made logo.
+For this application to run, the user will use the command line to navigate to the directory where they placed the repository, the user will then install all dependencies needed by typing `npm i`, then the user will type `node index` to start the application. The user will then be asked a series of questions and answer them properly. Once after the questions have been answered, a message will show in the command line saying that the logo has been generated. The user will then find their new made logo.
 
 # Contributions
 At this time, there is no need for contributions. 
