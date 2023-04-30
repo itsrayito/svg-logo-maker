@@ -16,9 +16,10 @@ Table of Contents
 The purpose of this application was for the user a freelance web developer, to be able to create and generate a logo for their projects in order for them to avoid spending money on a graphic designer.
 
 # Live-screen-installation-and-function
-
+Below is the link in order for the user to follow in order to begin with the application.<br><br>
+https://drive.google.com/file/d/1dP3c_sBtNbWzBGgRgAATuRM9-N8pNJgP/view?usp=sharing
 # Screenshot
-
+![Alt text](Assets/svgscreenshot.png)
 # Technologies-used
 This project is powered by version 16 of Node.js, it also uses version 8.2.4 of inquirer. This project will also employ version 29.5.0 of jest for the unit testing perfomed.
 
