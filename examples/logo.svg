@@ -3,8 +3,8 @@
     width="300" height="200"
     xmlns="http://www.w3.org/2000/svg">
             
-            <rect x="95" y="45" height="110" width="110" fill="yellow" />
+            <circle cx="150" cy="100" r="80" fill="yellow" />
             
-            <text x="150" y="115" font-size="50" text-anchor="middle" fill="black">EAT</text>
+            <text x="150" y="115" font-size="50" text-anchor="middle" fill="black">yay</text>
 
             </svg>
