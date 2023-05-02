@@ -20,8 +20,6 @@ Below is the link in order for the user to follow in order to begin with the app
 LINK for video:
 https://drive.google.com/file/d/17C-xevYXeqbTQXZuM1ZBG-NVADIFsmAH/view?usp=share_link
 
-REPO link: 
-https://github.com/itsrayito/svg-logo-maker
 # Screenshot
 ![Alt text](Assets/svgscreenshot.png)
 # Technologies-used
