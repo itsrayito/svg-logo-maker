@@ -17,7 +17,11 @@ The purpose of this application was for the user a freelance web developer, to b
 
 # Live-screen-installation-and-function
 Below is the link in order for the user to follow in order to begin with the application.<br><br>
-https://drive.google.com/file/d/1dP3c_sBtNbWzBGgRgAATuRM9-N8pNJgP/view?usp=sharing
+LINK for video:
+https://drive.google.com/file/d/17C-xevYXeqbTQXZuM1ZBG-NVADIFsmAH/view?usp=share_link
+
+REPO link: 
+https://github.com/itsrayito/svg-logo-maker
 # Screenshot
 ![Alt text](Assets/svgscreenshot.png)
 # Technologies-used
